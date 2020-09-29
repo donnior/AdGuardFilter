@@ -11,4 +11,6 @@
 ||ipv4-ipv6-phase4.inf.vip.meituan.com^$important
 ||shouzhaigongsi.cn^$important
 ||murangj.com^$important
-
+||code.hnxcdjk.com^$important
+||pic.smartuil.com^$important
+||qhjrcw.com^$important
