@@ -2,7 +2,6 @@
 ||baidu.dmmaster1.com^$important
 ||os.com.d5wy3.cn^$important
 ||os.com.d5wy3.cn.wswebcdn.com^$important
-## ||www.a.shifen.com^$important
 ||s2.jiasudu666.com^$important
 ||tr.d5wy3.cn.wswebcdn.com^$important
 ||d5wy3.cn^$important
@@ -18,3 +17,8 @@
 ||www.prjslxhtx005.top^$important
 ||jfsdiwmnbsk*.top^$important
 ||prjslxhtx*.top^$important
+||vip.yangniupiju.com^$important
+||gif.jingteinv.com^$important
+||bjaodidazhong.com^$important
+||t.kubam.cn.wswebcdn.com^$important
+||t.kubam.cn^$important
