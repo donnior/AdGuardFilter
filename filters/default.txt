@@ -30,3 +30,4 @@
 ||s.360.cn^$important
 ||elteia.org^$important
 ||*.qisaoba.com^$important
+||*.sogowan.com^$important
