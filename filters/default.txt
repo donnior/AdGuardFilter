@@ -31,3 +31,4 @@
 ||elteia.org^$important
 ||*.qisaoba.com^$important
 ||*.sogowan.com^$important
+||*.euqq.cn^$important
